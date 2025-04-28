@@ -52,6 +52,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ## home .html
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -237,8 +238,10 @@ Upload to GitHub Pages for free hosting.
     </footer>
 </body>
 </html>
+```
 
 ## product.html
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -456,8 +459,9 @@ Upload to GitHub Pages for free hosting.
     </footer>
 </body>
 </html>
-
+```
 ## contact.html
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -759,7 +763,7 @@ Upload to GitHub Pages for free hosting.
     </footer>
 </body>
 </html>
-
+```
 ## OUTPUT
 <img width="905" alt="contack" src="https://github.com/user-attachments/assets/1859fa5d-048c-4088-a3e5-fc88768ac99b" />
 <img width="892" alt="product" src="https://github.com/user-attachments/assets/46997f16-bae7-463b-94fc-cb88797c8ba6" />
